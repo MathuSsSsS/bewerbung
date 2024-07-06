@@ -1,1 +1,0 @@
-Die C# Syntaxhilfe ist ein laufendes Projekt. Ich ziele ab, die grundlegendste Syntax und Techniken strukturiert zu bündeln um beim Programmieren darauf zurückzugreifen.
